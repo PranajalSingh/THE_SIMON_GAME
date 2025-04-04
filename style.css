@@ -43,6 +43,15 @@ body{
     background-color: blue;
 }
 
+footer{
+    font-family: system-ui, sans-serif;
+    font-size: 14px;
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50px;
+}
+
 @media (min-width:600px) {
     .heading{
         font-size: 40px;
@@ -59,4 +68,5 @@ body{
 
 .clicked{
     background-color: white;
+    box-shadow: 0px 0px 50px 10px rgb(255, 255, 255);
 }
