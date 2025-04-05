@@ -19,6 +19,7 @@ function gameStart(){
     user_pattern = [];
     $("h1").text("level " + level);
     newSequence();
+    $(".start").hide("slow");
 }
 
 function randomNumber(){
@@ -58,9 +59,17 @@ function gameOver(){
         $("body").css("background-color", "#011F3F");
     }, 100);
     started = false;
+    $(".start").show("slow");
 }
 
 $(document).keypress(function(){
+    if (!started){
+        started = true;
+        gameStart();
+    }
+});
+
+$(".start").click(function(){
     if (!started){
         started = true;
         gameStart();
