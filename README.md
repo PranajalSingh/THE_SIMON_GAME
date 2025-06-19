@@ -5,6 +5,7 @@ A web-based recreation of the classic Simon memory game. Test your memory by rep
 ## Demo
 
 ![Simon Game Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Features
 - Classic Simon gameplay: repeat the sequence of colors and sounds
