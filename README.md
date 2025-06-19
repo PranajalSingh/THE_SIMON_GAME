@@ -42,8 +42,6 @@ THE_SIMON_GAME/
 
 ## Credits
 - **Developed by:** Pranajal Singh
-- **Sound effects:** [Attribution if required, otherwise remove]
 - **Font:** [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) by Codeman38
 
 ## License
-[MIT](LICENSE) <!-- Specify your license here --> 
