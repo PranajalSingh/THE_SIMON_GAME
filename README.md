@@ -2,10 +2,12 @@
 
 A web-based recreation of the classic Simon memory game. Test your memory by repeating an ever-growing sequence of colors and sounds. Built with HTML, CSS, JavaScript, and jQuery.
 
-## Demo
+## 📸 Preview
 
-![Simon Game Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p align="center">
+  <img src="preview.png" alt="Simon Game Gameplay" width="75%">
+</p>
+
 
 ## Features
 - Classic Simon gameplay: repeat the sequence of colors and sounds
